@@ -23,5 +23,7 @@ It was used neural network for detection 14 points of tennis court. For more inf
 * Tennis court keypoint with Pytorch: training/tennis_court_keypoints_training.ipynb
 
 
-## Trained model and court key points:"https://drive.google.com/drive/folders/1b9mrVv_Xg91bxEJx1cmGqQp_o7hjfW6W?usp=sharing"
-## weights: "https://drive.google.com/drive/folders/1HSgsJT-2eXPoBv0PY5qRhsuzTDK3LNQo?usp=sharing"
+## Trained model and court key points:
+"https://drive.google.com/drive/folders/1b9mrVv_Xg91bxEJx1cmGqQp_o7hjfW6W?usp=sharing"
+## weights:
+"https://drive.google.com/drive/folders/1HSgsJT-2eXPoBv0PY5qRhsuzTDK3LNQo?usp=sharing"
