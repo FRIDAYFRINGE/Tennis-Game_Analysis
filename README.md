@@ -1,11 +1,11 @@
 ## Requirements
+* opencv
 * python3.8
 * ultralytics
 * pytroch
 * pandas
 * numpy 
-* opencv
-* 
+ 
 ## Introduction
 This project analyzes Tennis players in a video to measure their speed, ball shot speed and number of shots.
 ## Output Videos
