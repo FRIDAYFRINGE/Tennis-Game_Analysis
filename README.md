@@ -14,7 +14,7 @@ Here is a screenshot from one of the output videos:
 ![Screenshot](output_videos/screenshot.jpeg)
 
 
-Court detection
+## Court detection
 It was used neural network for detection 14 points of tennis court. For more information you can check this repository: https://github.com/yastrebksv/TennisCourtDetector. There you can find pretrained weights to check the model.
 
 
@@ -23,5 +23,5 @@ It was used neural network for detection 14 points of tennis court. For more inf
 * Tennis court keypoint with Pytorch: training/tennis_court_keypoints_training.ipynb
 
 
-## Trained model and court key points:""
-## weights: ""
+## Trained model and court key points:"https://drive.google.com/drive/folders/1b9mrVv_Xg91bxEJx1cmGqQp_o7hjfW6W?usp=sharing"
+## weights: "https://drive.google.com/drive/folders/1HSgsJT-2eXPoBv0PY5qRhsuzTDK3LNQo?usp=sharing"
