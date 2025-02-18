@@ -1,0 +1,27 @@
+## Requirements
+* python3.8
+* ultralytics
+* pytroch
+* pandas
+* numpy 
+* opencv
+* 
+## Introduction
+This project analyzes Tennis players in a video to measure their speed, ball shot speed and number of shots.
+## Output Videos
+Here is a screenshot from one of the output videos:
+
+![Screenshot](output_videos/screenshot.jpeg)
+
+
+Court detection
+It was used neural network for detection 14 points of tennis court. For more information you can check this repository: https://github.com/yastrebksv/TennisCourtDetector. There you can find pretrained weights to check the model.
+
+
+## Training
+* Tennis ball detetcor with YOLO: training/tennis_ball_detector_training.ipynb
+* Tennis court keypoint with Pytorch: training/tennis_court_keypoints_training.ipynb
+
+
+## Trained model and court key points:""
+## weights: ""
